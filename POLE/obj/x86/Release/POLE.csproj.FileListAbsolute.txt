@@ -1,0 +1,16 @@
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\bin\Release\POLE.exe
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\bin\Release\POLE.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Release\POLE.MAINform.resources
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Release\POLE.NewPole.resources
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Release\POLE.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Release\POLE.csproj.GenerateResource.Cache
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Release\POLE.exe
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Release\POLE.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.MAINform.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.NewPole.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.TrustInfo.xml
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.exe.manifest
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.exe
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Release\POLE.pdb

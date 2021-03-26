@@ -1,0 +1,25 @@
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\bin\Debug\POLE.exe
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\bin\Debug\POLE.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.Properties.Resources.resources
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.csproj.GenerateResource.Cache
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.exe
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.pdb
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.MAINform.resources
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.NewPole.resources
+C:\Users\Home\AppData\Local\Temporary Projects\POLE\obj\x86\Debug\POLE.POOLEE.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\bin\Debug\POLE.exe
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\bin\Debug\POLE.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.MAINform.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.NewPole.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.Properties.Resources.resources
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.csproj.GenerateResource.Cache
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.exe
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.pdb
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\bin\Debug\POLE.exe.manifest
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\bin\Debug\POLE.application
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.TrustInfo.xml
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.exe.manifest
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.application
+C:\Users\Home\documents\visual studio 2010\Projects\POLE\POLE\obj\x86\Debug\POLE.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\POLE\POLE\obj\x86\Debug\POLE.exe
+C:\Users\user\Documents\Visual Studio 2010\OLDProject\POLE\POLE\obj\x86\Debug\POLE.pdb
